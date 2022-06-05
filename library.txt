@@ -1,0 +1,10 @@
+1 : Available : les_fous_du_roi		: robert_penn_warren 		: thriller 
+2 : Available : la-bas			: joris-karl_huysmans 		: romance 
+3 : Available : faust			: johann_wolfgang_von_goethe 	: sciences 
+4 : Available : un_tramway_nomme_desir	: tennessee_williams 		: sciences 
+5 : Available : la_peste			: albert_camus	 		: literacy
+6 : Available : cyrano_de_bergerac	: edmond_ostand	 		: literacy
+8 : Available : le : chat : literacy
+9 : Available : a : b : thriller
+9 : Available : liberte : joe : literacy
+10 : Available : the : lie : thriller
